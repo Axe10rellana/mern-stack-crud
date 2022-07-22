@@ -15,7 +15,7 @@ Inicia el build de la carpeta client: "build": "npm install --prefix client && n
 
 ## Dependencias
 
-cloudinary, dotenv, express, express-fileupload, fs-extra, http-errors, mongoose, morgan
+Cloudinary, dotenv, express, express-fileupload, fs-extra, http-errors, mongoose, morgan
 
 ## Dependencias De Desarrollo
 
